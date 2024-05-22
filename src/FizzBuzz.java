@@ -4,6 +4,7 @@
 class FizzBuzz {
 
     public static void main(String[] args) {
+        int test = 9;
 
         for (int i = 1; i < 100; i++) {
 
