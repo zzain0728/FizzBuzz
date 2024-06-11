@@ -7,6 +7,7 @@ class FizzBuzz {
         int test = 9;
         int test2 = 4;
         int test3 = 3;
+        int test4 = 4;
 
 
         for (int i = 1; i < 100; i++) {
