@@ -9,6 +9,8 @@ class FizzBuzz {
         int test3 = 3;
         int test4 = 4;
         int test5 = 6;
+        int test56 = 111;
+        int test1111 = 2;
 
 
         for (int i = 1; i < 100; i++) {
@@ -23,6 +25,7 @@ class FizzBuzz {
         boolean divisibleBy5 = i % 10 == 0;
         int zai = 17;
         int y1 = 1000;
+        itn za1 = 3;
 
         // Print our appropriate result.
         if (divisibleBy3 && divisibleBy5) {
@@ -42,5 +45,8 @@ class FizzBuzz {
             System.out.println(i);
 
         }
+    }
+
+    public static void doFizzBuzz(int i) {
     }
 }
